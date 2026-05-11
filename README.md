@@ -15,7 +15,7 @@ I'm a Computer Science student passionate about building intelligent, user-centr
 
 - 🌱 **Currently Learning:** Advanced JavaScript · React.js · Deep Learning · System Design
 - 🔭 **Building:** Full-stack applications with AI integration
-- 🎯 **Specializations:** Full-Stack Development · Machine Learning · Web Accessibility · UI/UX
+- 🎯 **Specializations:** Full-Stack Development · Machine Learning · Web Accessibility
 - 🤝 **Open to:** Internships · Collaborations · Open-Source Contributions
 - 💬 **Ask me about:** Python · JavaScript · SQL · PHP · Machine Learning
 - ⚡ **Philosophy:** Clean code, user-centric solutions, and continuous learning
@@ -38,7 +38,7 @@ AI-powered web accessibility auditing tool that automatically scans websites for
 - Interactive dashboard with detailed reports
 - Full-stack architecture (backend API + frontend interface)
 
-📂 **[View Repository](#)** | 🌐 **[Live Demo](#)** | 📖 **[Documentation](#)**
+📂 **[View Repository](https://github.com/FaiqaRashid/Scriptclean-A11y-Guard)** | 📖 **[Documentation](https://github.com/FaiqaRashid/Scriptclean-A11y-Guard#readme)**
 
 ---
 
@@ -48,7 +48,7 @@ Full-stack platform connecting Pakistani freelancers with global clients. Demons
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Status](https://img.shields.io/badge/Status-MVP%20Complete-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Deployed-blue?style=flat-square)
 
 **Key Features:**
 - User authentication (Freelancers & Clients)
@@ -58,62 +58,7 @@ Full-stack platform connecting Pakistani freelancers with global clients. Demons
 - Rating & review system
 - Responsive design
 
-📂 **[View Repository](#)** | 🌐 **[Live Demo](#)** | 📖 **[Documentation](#)**
-
----
-
-### 🏥 **Breast Cancer Prediction Web App**
-Machine learning web application using real medical data for diagnostic support. Demonstrates ML pipeline integration with interactive user interface.
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Deployed-green?style=flat-square)
-
-**Key Features:**
-- Machine Learning model with 87%+ accuracy
-- Real-time predictions with confidence scores
-- Feature importance visualization
-- Interactive UI for non-technical users
-- Data preprocessing & model evaluation
-
-📂 **[View Repository](#)** | 🌐 **[Live Demo](#)** | 📊 **[Model Details](#)**
-
----
-
-### 🎨 **Scrollix - Anime/Manga Catalog Platform**
-Beautiful catalog discovery platform with custom CSS animations and secure backend architecture. Focus on UI/UX excellence and database design.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Key Features:**
-- Responsive, modern UI with CSS animations
-- User authentication & account management
-- Catalog browsing with search & filtering
-- Database optimization for performance
-- Clean, maintainable code structure
-
-📂 **[View Repository](#)** | 🌐 **[Live Demo](#)**
-
----
-
-### 📚 **Python Spell Checker**
-NLP-powered desktop application for intelligent spell detection and correction. Built with Tkinter GUI.
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-TextBlob-green?style=flat-square)
-
-**Key Features:**
-- Real-time spell checking & correction
-- NLP-based error detection
-- User-friendly Tkinter interface
-- Comprehensive word dictionary
-
-📂 **[View Repository](#)**
+📂 **[View Repository](https://github.com/FaiqaRashid/pakfreelance)** | 🌐 **[Live Demo](https://huggingface.co/spaces/lablab-ai-amd-developer-hackathon/pakfreelance-ai-agent)** | 📖 **[Documentation](https://github.com/FaiqaRashid/pakfreelance#readme)**
 
 ---
 
@@ -130,7 +75,7 @@ User-centric prototype for travel platform emphasizing visual hierarchy and intu
 - Information architecture optimization
 - Design system & component library
 
-📂 **[View Prototype](#)**
+📸 **[View Prototype Images](https://github.com/FaiqaRashid/Travelle)** *(Portfolio images will be added here)*
 
 ---
 
@@ -171,18 +116,6 @@ User-centric prototype for travel platform emphasizing visual hierarchy and intu
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-[![Faiqa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaiqaRashid&show_icons=true&theme=radical&hide_border=true)](https://github.com/FaiqaRashid)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaiqaRashid&layout=compact&theme=radical&hide_border=true)](https://github.com/FaiqaRashid)
-
-</div>
-
----
-
 ## 🎓 Certifications & Learning
 
 - 🏅 **Meta** - Front-End Developer Professional Specialization (2025)
@@ -197,6 +130,7 @@ User-centric prototype for travel platform emphasizing visual hierarchy and intu
 - 🧠 Learning Deep Learning with TensorFlow
 - 📱 Building mobile-responsive web applications
 - 🔍 Diving deeper into system design & scalability
+- 📤 Uploading remaining projects to GitHub (Breast Cancer Prediction, Spell Checker, Scrollix)
 
 ---
 
@@ -209,15 +143,9 @@ User-centric prototype for travel platform emphasizing visual hierarchy and intu
 
 ---
 
-## 📫 Get in Touch
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-faiqarashid06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faiqarashid06@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faiqa%20Rashid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiqa-rashid-5a5521398/)
-[![Location](https://img.shields.io/badge/Location-Faisalabad%2C%20Pakistan-red?style=for-the-badge&logo=google-maps&logoColor=white)](#)
-
-</div>
+## 📧 Contact Me
+📧 Email: faiqarashid06@gmail.com
+🔗 LinkedIn: Faiqa Rashid
 
 ---
 
@@ -226,7 +154,5 @@ User-centric prototype for travel platform emphasizing visual hierarchy and intu
 ### ✨ "The best way to predict the future is to invent it." - Alan Kay
 
 **Built with ❤️ · Open to Opportunities · Always Learning**
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=FaiqaRashid.FaiqaRashid&left_color=purple&right_color=7C3AED)
 
 </div>
