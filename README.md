@@ -146,14 +146,14 @@ User-centric prototype for travel platform emphasizing visual hierarchy and intu
 
 ---
 
-📫 Get in Touch
-<div align="center">
-Show Image
-Show Image
-Show Image
-</div>
+
+## 📧 Contact Me
+
+📧 **Email:** faiqarashid06@gmail.com  
+🔗 **LinkedIn:** [Faiqa Rashid](https://www.linkedin.com/in/faiqa-rashid-5a5521398/)
 
 ---
+
 
 <div align="center">
 
