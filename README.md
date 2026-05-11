@@ -1,5 +1,6 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Faiqa+Rashid+%F0%9F%91%8B;Full-Stack+Developer+%26+ML+Enthusiast;AI+Explorer+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Faiqa+Rashid+%F0%9F%91%8B;Full-Stack+Developer+%26+ML+Enthusiast;AI+Explorer+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+
 <img src="https://komarev.com/ghpvc/?username=FaiqaRashid&label=Profile+Views&color=7C3AED&style=flat" alt="profile views" />
 &nbsp;
 <a href="https://www.linkedin.com/in/faiqa-rashid-5a5521398/">
