@@ -38,7 +38,7 @@ AI-powered web accessibility auditing tool that automatically scans websites for
 - Interactive dashboard with detailed reports
 - Full-stack architecture (backend API + frontend interface)
 
-📂 **[View Repository](https://github.com/FaiqaRashid/Scriptclean-A11y-Guard)** | 📖 **[Documentation](https://github.com/FaiqaRashid/Scriptclean-A11y-Guard#readme)**
+📂 **[View Repository](https://github.com/FaiqaRashid/scriptclean-a11y-guard)** | 📖 **[Documentation](https://github.com/FaiqaRashid/scriptclean-a11y-guard/blob/main/README.md)**
 
 ---
 
@@ -58,7 +58,7 @@ Full-stack platform connecting Pakistani freelancers with global clients. Demons
 - Rating & review system
 - Responsive design
 
-📂 **[View Repository](https://github.com/FaiqaRashid/pakfreelance)** | 🌐 **[Live Demo](https://huggingface.co/spaces/lablab-ai-amd-developer-hackathon/pakfreelance-ai-agent)** | 📖 **[Documentation](https://github.com/FaiqaRashid/pakfreelance#readme)**
+📂 **[View Repository](https://github.com/FaiqaRashid/pakfreelance-ai-agent)** | 🌐 **[Live Demo](https://huggingface.co/spaces/lablab-ai-amd-developer-hackathon/pakfreelance-ai-agent)** | 📖 **[Documentation](https://github.com/FaiqaRashid/pakfreelance-ai-agent/blob/main/README.md)**
 
 ---
 
@@ -75,7 +75,7 @@ User-centric prototype for travel platform emphasizing visual hierarchy and intu
 - Information architecture optimization
 - Design system & component library
 
-📸 **[View Prototype Images](https://github.com/FaiqaRashid/Travelle)** *(Portfolio images will be added here)*
+📸 **[View Prototype Images](https://github.com/FaiqaRashid/Travelle)** 
 
 ---
 
